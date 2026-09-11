@@ -1,106 +1,133 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:172554,100:312e81&height=220&section=header&text=Mohammed%20Asim&fontSize=55&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Software%20Developer%20%7C%20AI%20Enthusiast&descAlignY=60&descSize=19" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050816,45:0B1026,75:17113B,100:28145C&height=300&section=header&text=MOHAMMED%20ASIM&fontSize=58&fontColor=FFFFFF&fontAlignY=42&animation=fadeIn&desc=SOFTWARE%20DEVELOPER%20%20%E2%80%A2%20%20AI%20ENTHUSIAST&descSize=18&descAlignY=62&descColor=93C5FD"/>
 
 <br/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=25&duration=3000&pause=900&color=60A5FA&center=true&vCenter=true&width=800&height=60&lines=I+turn+ideas+into+real+products.;I+build+with+code%2C+AI%2C+and+curiosity.;Exploring+what+technology+can+become.;Building+today+with+tomorrow+in+mind." />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Software%20Engineering-0B1026?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-111827?style=for-the-badge&logoColor=60A5FA"/>
+<img src="https://img.shields.io/badge/Full--Stack-17113B?style=for-the-badge&logoColor=A78BFA"/>
+<img src="https://img.shields.io/badge/Product%20Building-1E1B4B?style=for-the-badge&logoColor=C4B5FD"/>
+
+<br/><br/>
+
 <a href="https://github.com/MohammedAsimGit">
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=25&duration=3000&pause=900&color=60A5FA&center=true&vCenter=true&width=700&lines=Building+ideas+into+real+products.;Exploring+the+future+of+AI.;Engineering+modern+digital+experiences.;Learning.+Building.+Evolving." />
+<img src="https://img.shields.io/badge/Explore%20my%20work-FFFFFF?style=for-the-badge&logo=github&logoColor=111827"/>
 </a>
 
-<br/>
-
-<p>
-  <em>Computer Science Engineering student • Developer • Builder • Dreamer</em>
-</p>
-
-<br/>
-
 </div>
+
+<br/>
 
 ---
 
 <div align="center">
 
-## ✦ I BUILD WHAT I IMAGINE
+### `01` — THE PERSON BEHIND THE CODE
 
 </div>
 
-I'm **Mohammed Asim**, a Computer Science Engineering student and software developer passionate about creating **intelligent, meaningful, and beautifully engineered products**.
-
-I love turning an idea that exists only in my mind into something people can actually **see, interact with, and use**.
-
-My curiosity lives where **software engineering, artificial intelligence, product design, and innovation** meet.
-
 <br/>
 
-<div align="center">
+<table>
+<tr>
+<td width="58%" valign="top">
+
+## Hello, I'm Asim. 👋
+
+I'm a **Computer Science Engineering student, software developer, and AI enthusiast** who enjoys transforming ideas into real, usable products.
+
+I don't want to build software just for the sake of writing code.
+
+I want to understand a problem, imagine a better experience, engineer the solution, and make something that feels **simple, useful, and a little magical.**
+
+My interests live at the intersection of:
+
+**Software Engineering × Artificial Intelligence × Product Design × Innovation**
+
+</td>
+
+<td width="42%" valign="top">
+
+### CURRENT DIRECTION
 
 ```text
-       IDEA
-        ↓
-     IMAGINE
-        ↓
-     DESIGN
-        ↓
-      BUILD
-        ↓
-       AI
-        ↓
-     DEPLOY
-        ↓
-      IMPACT
+      CURIOUS
+         ↓
+       LEARN
+         ↓
+       BUILD
+         ↓
+      EXPERIMENT
+         ↓
+      IMPROVE
+         ↓
+       CREATE
+         ↓
+       IMPACT
 ```
 
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+> ### **"Build things that didn't exist before."**
+
 </div>
 
 ---
 
 <div align="center">
 
-## ⚡ WHAT DRIVES ME
+### `02` — WHAT I LOVE BUILDING
 
 </div>
 
-<table align="center">
+<br/>
+
+<table>
 <tr>
 <td align="center" width="25%">
 
-### 🧠
-**Think**
+## 🤖
+### AI
 
-Solve problems  
-with curiosity.
-
-</td>
-
-<td align="center" width="25%">
-
-### 💻
-**Build**
-
-Turn ideas  
-into software.
+Intelligent applications, AI-powered workflows and experiments with emerging technology.
 
 </td>
 
 <td align="center" width="25%">
 
-### 🤖
-**Explore**
+## ⚡
+### SOFTWARE
 
-Push the boundaries  
-of AI.
+Fast, reliable and scalable applications built around real-world problems.
 
 </td>
 
 <td align="center" width="25%">
 
-### 🚀
-**Create**
+## ✦
+### EXPERIENCES
 
-Build products  
-that matter.
+Interfaces that feel modern, intuitive and genuinely enjoyable to use.
+
+</td>
+
+<td align="center" width="25%">
+
+## 🚀
+### PRODUCTS
+
+Taking ideas from a rough concept to something people can actually use.
 
 </td>
 </tr>
@@ -110,49 +137,47 @@ that matter.
 
 <div align="center">
 
-## 🌌 CURRENTLY
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Exploring+Artificial+Intelligence;Building+Full-Stack+Applications;Learning+System+Design;Creating+modern+%26+magical+UI;Turning+ideas+into+products" />
+### `03` — SELECTED BUILDS
 
 </div>
 
 <br/>
 
-<div align="center">
-
-### My technology playground
-
-<img src="https://skillicons.dev/icons?i=java,python,js,ts,react,nextjs,nodejs,express,mongodb,firebase,supabase,tailwind,git,github,vercel&perline=8" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🚀 THINGS I'VE BEEN BUILDING
-
-</div>
-
-<table align="center">
+<table>
 <tr>
 <td width="50%" valign="top">
 
-### 🌾 Kisan Vyapar
+## 🌾 Kisan Vyapar
 
-A farmer–vendor marketplace focused on **market linkage, price discovery, and intelligent decision-making**.
+### Farmer Market Linkage & Price Discovery
 
-`Next.js` · `TypeScript` · `MongoDB` · `AI`
+A digital marketplace designed to connect **farmers and vendors directly**, combining market information, listings and intelligent decision-making.
+
+**Stack**
+
+`Next.js` `TypeScript` `MongoDB` `Mongoose` `AI`
+
+<br/>
+
+**→ Real-world problem solving**
 
 </td>
 
 <td width="50%" valign="top">
 
-### ♻️ EcosysAI
+## ♻️ EcosysAI
 
-An AI-powered application for **garbage classification and responsible waste management**.
+### AI-Powered Waste Classification
 
-`React` · `AI` · `Computer Vision` · `APIs`
+An AI-powered application that identifies garbage categories from images and combines classification with an engaging reward experience.
+
+**Stack**
+
+`React` `AI` `Computer Vision` `APIs`
+
+<br/>
+
+**→ AI meets sustainability**
 
 </td>
 </tr>
@@ -160,21 +185,37 @@ An AI-powered application for **garbage classification and responsible waste man
 <tr>
 <td width="50%" valign="top">
 
-### 📚 VTU Scoremate
+## 📚 VTU Scoremate
 
-A learning platform built around **question banks, structured answers, diagrams, and academic preparation**.
+### Academic Learning Platform
 
-`JavaScript` · `MongoDB`
+A learning platform focused on question banks, structured answers, diagrams and academic preparation.
+
+**Stack**
+
+`JavaScript` `MongoDB` `Web`
+
+<br/>
+
+**→ Technology for better learning**
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🎬 AutoTube
+## 🎬 AutoTube
 
-An experiment in **automation, content workflows, and modern web development**.
+### Automation Experiment
 
-`Web` · `APIs` · `Automation`
+A project exploring automated content workflows and modern web technologies.
+
+**Stack**
+
+`Web` `APIs` `Automation`
+
+<br/>
+
+**→ Experiments become products**
 
 </td>
 </tr>
@@ -184,17 +225,15 @@ An experiment in **automation, content workflows, and modern web development**.
 
 <div align="center">
 
-## ✨ MY MINDSET
+### `04` — MY TECHNOLOGY UNIVERSE
 
-<br/>
+<br/><br/>
 
-> **Don't just learn technology.**
->
-> **Understand it.**
->
-> **Build with it.**
->
-> **Create something that didn't exist before.**
+<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,html,css,react,nextjs,nodejs,express,mongodb,firebase,supabase,tailwind,git,github,vercel&perline=9"/>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2600&pause=700&color=A78BFA&center=true&vCenter=true&width=700&lines=Learning+%E2%86%92+Building+%E2%86%92+Breaking+%E2%86%92+Understanding+%E2%86%92+Rebuilding;Always+curious.+Always+experimenting." />
 
 </div>
 
@@ -202,15 +241,96 @@ An experiment in **automation, content workflows, and modern web development**.
 
 <div align="center">
 
-## 🧭 WHERE I'M HEADING
+### `05` — CURRENTLY EXPLORING
 
-I'm working toward becoming a **futuristic technology professional and AI-focused builder**, combining strong software engineering with artificial intelligence and product thinking.
-
-I want to build things that feel almost like they came from the **future — but solve problems in the real world.**
+</div>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=20&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Software+Engineering+%E2%80%A2+AI+%E2%80%A2+Innovation;From+curiosity+to+creation.;From+ideas+to+impact." />
+<table align="center">
+<tr>
+<td>
+
+```text
+╭─────────────────────────────────────╮
+│                                     │
+│   Artificial Intelligence            │
+│   Intelligent Applications           │
+│   Full-Stack Architecture            │
+│   Modern Web Engineering             │
+│   Backend & API Design               │
+│   Database Architecture              │
+│   Product Engineering                │
+│                                     │
+╰─────────────────────────────────────╯
+```
+
+</td>
+<td>
+
+```text
+          FUTURE
+            ↑
+            │
+        INNOVATION
+            ↑
+            │
+          AI + CODE
+            ↑
+            │
+       STRONG BASICS
+            ↑
+            │
+         CURIOSITY
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### `06` — THE WAY I THINK
+
+<br/>
+
+<table>
+<tr>
+<td align="center">
+
+### 🧠 THINK DEEPLY
+
+Understand the problem before rushing toward the solution.
+
+</td>
+<td align="center">
+
+### 🔨 BUILD FEARLESSLY
+
+The fastest way to learn is to create something real.
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 🔍 QUESTION EVERYTHING
+
+Explore better approaches instead of blindly accepting the first one.
+
+</td>
+<td align="center">
+
+### 🌌 THINK BEYOND
+
+Technology should not only solve today's problems — it can shape tomorrow.
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -218,22 +338,44 @@ I want to build things that feel almost like they came from the **future — but
 
 <div align="center">
 
-## 🌐 CONNECT
+### `07` — THE ROAD AHEAD
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=21&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&height=50&lines=Software+Engineer;AI+Builder;Product+Thinker;Future+Technology+Entrepreneur"/>
+
+<br/><br/>
+
+I'm working toward becoming a **technology professional who can combine engineering, AI, product thinking and entrepreneurship** to create meaningful products.
+
+The long-term vision is simple:
+
+### **Don't just use the future. Build it.**
+
+</div>
+
+---
+
+<div align="center">
+
+### `08` — LET'S CONNECT
+
+<br/>
 
 <a href="https://github.com/MohammedAsimGit">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-0B1026?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
 
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=60A5FA"/>
+<img src="https://img.shields.io/badge/LinkedIn-0B1026?style=for-the-badge&logo=linkedin&logoColor=60A5FA"/>
 </a>
 
 <br/><br/>
 
-<sub>Always learning. Always building. Always thinking beyond.</sub>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3200&pause=900&color=94A3B8&center=true&vCenter=true&width=600&lines=Always+learning.;Always+building.;Always+thinking+beyond." />
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:172554,100:0f172a&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:28145C,45:17113B,75:0B1026,100:050816&height=150&section=footer&animation=fadeIn"/>
 
 </div>
