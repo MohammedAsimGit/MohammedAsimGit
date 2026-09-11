@@ -1,165 +1,106 @@
-# Mohammed Asim
-
 <div align="center">
 
-### Software Developer · AI Enthusiast · Full-Stack Builder
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:172554,100:312e81&height=220&section=header&text=Mohammed%20Asim&fontSize=55&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Software%20Developer%20%7C%20AI%20Enthusiast&descAlignY=60&descSize=19" width="100%"/>
 
-Building practical software, exploring intelligent systems, and turning ideas into products.
+<br/>
+
+<a href="https://github.com/MohammedAsimGit">
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=25&duration=3000&pause=900&color=60A5FA&center=true&vCenter=true&width=700&lines=Building+ideas+into+real+products.;Exploring+the+future+of+AI.;Engineering+modern+digital+experiences.;Learning.+Building.+Evolving." />
+</a>
+
+<br/>
 
 <p>
-  <a href="https://github.com/MohammedAsimGit">
-    <img src="https://img.shields.io/badge/GitHub-MohammedAsimGit-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <em>Computer Science Engineering student • Developer • Builder • Dreamer</em>
 </p>
+
+<br/>
 
 </div>
 
 ---
-
-## About Me
-
-I'm **Mohammed Asim**, a Computer Science Engineering student and software developer interested in building useful, intelligent, and modern digital products.
-
-My interests sit at the intersection of:
-
-- 💻 **Software Engineering**
-- 🤖 **Artificial Intelligence**
-- 🌐 **Full-Stack Development**
-- 🧠 **Problem Solving**
-- 🚀 **Product Building**
-- ✨ **Modern UI & User Experience**
-
-I enjoy taking an idea from **concept → architecture → code → deployment** and continuously improving it along the way.
-
-> **Think deeply. Build boldly. Keep learning.**
-
----
-
-## What I'm Building
-
-### 🌾 Kisan Vyapar
-**Farmer Market Linkage & Price Discovery Platform**
-
-A digital marketplace designed to connect **farmers and vendors directly**, helping users make better selling and buying decisions through market intelligence.
-
-**Focus:** Next.js · TypeScript · MongoDB · Mongoose · AI · Market Intelligence
-
----
-
-### ♻️ EcosysAI
-**AI-Powered Garbage Classification**
-
-A web application that uses AI-based image classification to identify garbage categories and encourage responsible waste management through an interactive reward system.
-
-**Focus:** AI · Computer Vision · React · APIs · Authentication
-
----
-
-### 📚 VTU Scoremate
-**AI-Assisted Academic Learning Platform**
-
-A learning platform designed around question banks, modules, answers, diagrams, and structured academic preparation.
-
-**Focus:** JavaScript · MongoDB · Education Technology · AI
-
----
-
-### 🎬 AutoTube
-**Automated Content Workflow**
-
-A project exploring automation and modern web technologies to simplify content-related workflows.
-
-**Focus:** Automation · Web Development · APIs
-
----
-
-## Tech Stack
 
 <div align="center">
 
-### Languages
+## ✦ I BUILD WHAT I IMAGINE
 
-<img src="https://skillicons.dev/icons?i=java,js,ts,python,html,css" />
+</div>
 
-### Frontend
+I'm **Mohammed Asim**, a Computer Science Engineering student and software developer passionate about creating **intelligent, meaningful, and beautifully engineered products**.
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+I love turning an idea that exists only in my mind into something people can actually **see, interact with, and use**.
 
-### Backend & Database
+My curiosity lives where **software engineering, artificial intelligence, product design, and innovation** meet.
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,supabase" />
+<br/>
 
-### Tools & Platforms
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+```text
+       IDEA
+        ↓
+     IMAGINE
+        ↓
+     DESIGN
+        ↓
+      BUILD
+        ↓
+       AI
+        ↓
+     DEPLOY
+        ↓
+      IMPACT
+```
 
 </div>
 
 ---
 
-## Currently Exploring
+<div align="center">
 
-```text
-Artificial Intelligence
-        ↓
-Intelligent Applications
-        ↓
-Full-Stack Engineering
-        ↓
-Scalable Products
-        ↓
-Real-World Impact
-```
+## ⚡ WHAT DRIVES ME
 
-I'm currently deepening my knowledge in:
+</div>
 
-- AI-powered applications
-- Full-stack architecture
-- Modern React & Next.js
-- Backend systems and APIs
-- Database design
-- AI/ML integration
-- Product-oriented engineering
-- Performance and scalable application design
-
----
-
-## My Development Philosophy
-
-<table>
+<table align="center">
 <tr>
-<td width="50%">
+<td align="center" width="25%">
 
-### 🧠 Learn
+### 🧠
+**Think**
 
-Understand the fundamentals instead of only following tutorials.
-
-</td>
-<td width="50%">
-
-### 🛠️ Build
-
-Turn knowledge into real projects and experiments.
+Solve problems  
+with curiosity.
 
 </td>
-</tr>
 
-<tr>
-<td width="50%">
+<td align="center" width="25%">
 
-### 🔍 Improve
+### 💻
+**Build**
 
-Question existing solutions and continuously refine them.
+Turn ideas  
+into software.
 
 </td>
-<td width="50%">
 
-### 🚀 Ship
+<td align="center" width="25%">
 
-Build things that people can actually use.
+### 🤖
+**Explore**
+
+Push the boundaries  
+of AI.
+
+</td>
+
+<td align="center" width="25%">
+
+### 🚀
+**Create**
+
+Build products  
+that matter.
 
 </td>
 </tr>
@@ -167,85 +108,21 @@ Build things that people can actually use.
 
 ---
 
-## GitHub Activity
-
 <div align="center">
 
-<a href="https://github.com/MohammedAsimGit">
+## 🌌 CURRENTLY
 
-<img src="https://github-readme-stats.vercel.app/api?username=MohammedAsimGit&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="170" />
-
-</a>
-
-<a href="https://github.com/MohammedAsimGit">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedAsimGit&layout=compact&hide_border=true&langs_count=8" height="170" />
-
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Exploring+Artificial+Intelligence;Building+Full-Stack+Applications;Learning+System+Design;Creating+modern+%26+magical+UI;Turning+ideas+into+products" />
 
 </div>
 
-<br>
+<br/>
 
 <div align="center">
 
-<a href="https://github.com/MohammedAsimGit">
+### My technology playground
 
-<img src="https://streak-stats.demolab.com?user=MohammedAsimGit&hide_border=true" />
-
-</a>
-
-</div>
-
----
-
-## Featured Projects
-
-| Project | Description | Technologies |
-|---|---|---|
-| 🌾 **Kisan Vyapar** | Farmer–vendor market linkage & price discovery | Next.js · TypeScript · MongoDB |
-| ♻️ **EcosysAI** | AI-powered garbage classification | React · AI · APIs |
-| 📚 **VTU Scoremate** | Academic learning & question platform | JavaScript · MongoDB |
-| 🎬 **AutoTube** | Content automation workflow | Web · APIs · Automation |
-
----
-
-## Beyond Code
-
-I believe software engineering is not only about writing code.
-
-It's about:
-
-**Understanding problems → designing solutions → building systems → creating experiences → making an impact.**
-
-My long-term goal is to grow into a technology professional who can combine **engineering, AI, product thinking, and entrepreneurship** to build meaningful products.
-
----
-
-## Let's Connect
-
-I'm always interested in:
-
-- Software engineering opportunities
-- Full-stack development
-- AI & emerging technologies
-- Startup ideas
-- Open-source projects
-- Interesting technical collaborations
-
-<div align="center">
-
-### Let's build something meaningful.
-
-<br>
-
-<a href="https://github.com/MohammedAsimGit">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,react,nextjs,nodejs,express,mongodb,firebase,supabase,tailwind,git,github,vercel&perline=8" />
 
 </div>
 
@@ -253,6 +130,110 @@ I'm always interested in:
 
 <div align="center">
 
-<sub>Designed & built with curiosity, code, and a lot of experimentation.</sub>
+## 🚀 THINGS I'VE BEEN BUILDING
+
+</div>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### 🌾 Kisan Vyapar
+
+A farmer–vendor marketplace focused on **market linkage, price discovery, and intelligent decision-making**.
+
+`Next.js` · `TypeScript` · `MongoDB` · `AI`
+
+</td>
+
+<td width="50%" valign="top">
+
+### ♻️ EcosysAI
+
+An AI-powered application for **garbage classification and responsible waste management**.
+
+`React` · `AI` · `Computer Vision` · `APIs`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 📚 VTU Scoremate
+
+A learning platform built around **question banks, structured answers, diagrams, and academic preparation**.
+
+`JavaScript` · `MongoDB`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎬 AutoTube
+
+An experiment in **automation, content workflows, and modern web development**.
+
+`Web` · `APIs` · `Automation`
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## ✨ MY MINDSET
+
+<br/>
+
+> **Don't just learn technology.**
+>
+> **Understand it.**
+>
+> **Build with it.**
+>
+> **Create something that didn't exist before.**
+
+</div>
+
+---
+
+<div align="center">
+
+## 🧭 WHERE I'M HEADING
+
+I'm working toward becoming a **futuristic technology professional and AI-focused builder**, combining strong software engineering with artificial intelligence and product thinking.
+
+I want to build things that feel almost like they came from the **future — but solve problems in the real world.**
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=20&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Software+Engineering+%E2%80%A2+AI+%E2%80%A2+Innovation;From+curiosity+to+creation.;From+ideas+to+impact." />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌐 CONNECT
+
+<a href="https://github.com/MohammedAsimGit">
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=60A5FA"/>
+</a>
+
+<br/><br/>
+
+<sub>Always learning. Always building. Always thinking beyond.</sub>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:172554,100:0f172a&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
