@@ -503,7 +503,7 @@ I'm working toward becoming a technology professional capable of combining **str
 <img src="https://img.shields.io/badge/GITHUB-FOLLOW-FFFFFF?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=050816"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/mohammed-asim-tech/">
 <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-67E8F9?style=for-the-badge&logo=linkedin&logoColor=67E8F9&labelColor=050816"/>
 </a>
 
