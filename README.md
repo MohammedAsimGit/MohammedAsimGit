@@ -13,7 +13,9 @@
 <img src="https://img.shields.io/badge/FULL--STACK-38BDF8?style=for-the-badge&labelColor=050816"/>
 <img src="https://img.shields.io/badge/PRODUCT_BUILDER-F472B6?style=for-the-badge&labelColor=050816"/>
 
-<br><br>
+<br>
+
+---
 
 </div>
 
