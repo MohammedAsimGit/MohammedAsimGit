@@ -48,19 +48,11 @@
 
 <br>
 
-Where engineering meets intelligence, design, and imagination.
+**Where engineering meets intelligence, design, and imagination.**
 
+Software Developer & AI Enthusiast building **scalable full-stack applications and intelligent digital experiences** with React, Next.js, TypeScript, JavaScript, Node.js, Python, MongoDB, and modern web technologies.
 
-
-Passionate about Software Engineering, Full-Stack Development, AI/ML, and UI/UX. I build scalable applications using React.js, JavaScript, TypeScript, Node.js, Python, REST APIs, MongoDB, and modern web technologies.
-
-
-
-I go beyond functional UI — I create eye-catching, intuitive, memorable, and almost magical digital experiences.
-
-
-
-Software Development | Full-Stack | AI/ML | UI/UX | Problem Solving | Product Innovation
+**Full-Stack • AI/ML • UI/UX • Problem Solving • Product Innovation**
 
 <div align="center">
 
