@@ -48,9 +48,19 @@
 
 <br>
 
-I'm **Mohammed Asim**, a Computer Science Engineering student, software developer and AI enthusiast interested in building **intelligent, useful and beautifully engineered digital products**.
+Where engineering meets intelligence, design, and imagination.
 
-I enjoy taking something that exists only as an idea and pushing it through the entire journey:
+
+
+Passionate about Software Engineering, Full-Stack Development, AI/ML, and UI/UX. I build scalable applications using React.js, JavaScript, TypeScript, Node.js, Python, REST APIs, MongoDB, and modern web technologies.
+
+
+
+I go beyond functional UI — I create eye-catching, intuitive, memorable, and almost magical digital experiences.
+
+
+
+Software Development | Full-Stack | AI/ML | UI/UX | Problem Solving | Product Innovation
 
 <div align="center">
 
