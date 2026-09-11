@@ -17,27 +17,6 @@
 
 </div>
 
-<div align="center">
-
-```text id="z7p2wq"
-                  ╭────────────────────────────────────────────────────────────────────────────╮
-                  │                                                                            │
-                  │   ◉  2090 / PERSONAL DIGITAL INTERFACE                                     │
-                  │                                                                            │
-                  │   USER        MOHAMMED ASIM                                                │
-                  │   ROLE        SOFTWARE DEVELOPER                                           │
-                  │   DOMAIN      AI  •  FULL-STACK  •  PRODUCT ENGINEERING                    │
-                  │   MODE        LEARNING  /  BUILDING  /  EVOLVING                           │
-                  │                                                                            │
-                  │   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  │
-                  │                                                                            │
-                  │   CORE        CURIOSITY  ×  CODE  ×  INTELLIGENCE  ×  IMAGINATION          │
-                  │                                                                            │
-                  ╰────────────────────────────────────────────────────────────────────────────╯
-```
-
-</div>
-
 <br>
 
 <div align="center">
