@@ -22,12 +22,12 @@
 ```text id="z7p2wq"
 ╭────────────────────────────────────────────────────────────────────────────╮
 │                                                                            │
-│   ◉  2090 / PERSONAL DIGITAL INTERFACE                                    │
+│   ◉  2090 / PERSONAL DIGITAL INTERFACE                                     │
 │                                                                            │
-│   USER        MOHAMMED ASIM                                               │
-│   ROLE        SOFTWARE DEVELOPER                                          │
-│   DOMAIN      AI  •  FULL-STACK  •  PRODUCT ENGINEERING                   │
-│   MODE        LEARNING  /  BUILDING  /  EVOLVING                          │
+│   USER        MOHAMMED ASIM                                                │
+│   ROLE        SOFTWARE DEVELOPER                                           │
+│   DOMAIN      AI  •  FULL-STACK  •  PRODUCT ENGINEERING                    │
+│   MODE        LEARNING  /  BUILDING  /  EVOLVING                           │
 │                                                                            │
 │   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  │
 │                                                                            │
